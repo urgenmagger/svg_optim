@@ -18,6 +18,6 @@
 Для наглядности можно почистить вот это лого twitter:
 
 ![logo twitter](svg_optim/img/logo_tw.svg)
-<img src="svg_optim/img/logo_tw.svg">
+<img src="https://github.com/urgenmagger/svg_optim/blob/master/img/logo_tw.svg">
 ````
 ````
