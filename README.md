@@ -1,4 +1,5 @@
 # ПРОСТОЙ ОПТИМИЗАТОР ДЛЯ SVG PATH
+### [DEMO ](https://urgenmagger.github.io/svg_optim/)
 Все просто, вставляете в верхнее поле svg path, т.е. то, что находится в d=" " :
 ```xml
 <path d="содержимое"></path>
