@@ -17,7 +17,4 @@
 можете смело экспериментировать, у меня получалось чистить до 52%.
 Для наглядности можно почистить вот это лого twitter:
 
-![logo twitter]
 <img src="https://github.com/urgenmagger/svg_optim/blob/master/img/logo_tw.svg">
-````
-````
